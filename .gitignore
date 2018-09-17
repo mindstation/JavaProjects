@@ -1,3 +1,7 @@
+# ignore archive copies
+*~
+*.bak
+
 # Compiled class file
 *.class
 
